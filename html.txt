@@ -1,0 +1,23 @@
+<html>
+<head>
+<body>
+<caption>TIME TABLE</caption>
+<table border="1>
+<tr>
+<th>Day</th>
+<th>Subject</th>
+<th>Time</th>
+</tr>
+<tr>
+<td>Monday</td>
+<td>Math</td>
+<td>10 AM - 12 PM</td>
+</tr>
+<td>Tuesday</td>
+<td>Chemistry</td>
+<td>12PM- 2PM</td>
+</tr>
+</table>
+</body>
+</html>
+</table>
