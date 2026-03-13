@@ -1,0 +1,175 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Resume</title>
+
+<style>
+body{
+    font-family: "Times New Roman", serif;
+    background:#f2f2f2;
+}
+
+.container{
+    width:800px;
+    margin:20px auto;
+    background:white;
+    padding:20px;
+    border:1px solid #ccc;
+}
+
+.header{
+    display:flex;
+    justify-content:space-between;
+    align-items:flex-start;
+}
+
+.header img{
+    width:120px;
+    height:140px;
+    border:2px solid #999;
+}
+
+h1{
+    text-align:center;
+    text-decoration:underline;
+}
+
+h3{
+    text-decoration:underline;
+}
+
+ul{
+    margin-top:5px;
+}
+
+.personal-table{
+    width:60%;
+}
+
+.personal-table td{
+    padding:3px 5px;
+}
+
+.signature{
+    text-align:right;
+    margin-top:40px;
+}
+
+.line{
+    border-top:1px solid #000;
+    margin:10px 0 20px 0;
+}
+</style>
+</head>
+
+<body>
+
+<div class="container">
+
+<h1>RESUME</h1>
+
+<div class="header">
+<div>
+<h2>PRARTHANA MAHESH CHAVAN</h2>
+
+<p><b>Email id:</b> 
+<a href="mailto:prathanac.ds25@sbjit.edu.in">prathanac.ds25@sbjit.edu.in</a></p>
+
+<p><b>Mobile No:</b> 9209XXXX60</p>
+
+<p><b>Address:</b> Plot No. 13, Geeta Nagar, Zhingabai Takli , Nagpur - 440030</p>
+</div>
+
+<img src="pfp.jpg" alt="Profile Photo">
+
+</div>
+
+<div class="line"></div>
+
+<h3>CAREER OBJECTIVE</h3>
+<ul>
+<li>Obtain a responsible position in an organization with the best capabilities, skills and knowledge.</li>
+</ul>
+
+<h3>SKILLS:</h3>
+<ul>
+<li>Basic knowledge of computer.</li>
+<li>C, C++ language</li>
+<li>Typing</li>
+<li>Effective Communication</li>
+<li>Project planning and execution</li>
+<li>Team Management</li>
+</ul>
+
+<h3>ACADEMIC QUALIFICATION:</h3>
+<ul>
+<li>12<sup>th</sup> from Taywade Jr. College , Mahadula.</li>
+<li>10<sup>th</sup> from St Vincent Pallotti School.</li>
+</ul>
+
+<h3>WORK EXPERIENCE:</h3>
+<ul>
+<li>Fresher</li>
+</ul>
+
+<h3>PERSONAL DETAILS:</h3>
+
+<table class="personal-table">
+<tr>
+<td>Father’s Name</td>
+<td>:</td>
+<td>Mahesh Chavan</td>
+</tr>
+
+<tr>
+<td>Date of birth</td>
+<td>:</td>
+<td>15 March 2007</td>
+</tr>
+
+<tr>
+<td>Gender</td>
+<td>:</td>
+<td>Female</td>
+</tr>
+
+<tr>
+<td>Nationality</td>
+<td>:</td>
+<td>Indian</td>
+</tr>
+
+<tr>
+<td>Marital Status</td>
+<td>:</td>
+<td>Unmarried</td>
+</tr>
+
+<tr>
+<td>Languages Known</td>
+<td>:</td>
+<td>English , Hindi , Marathi</td>
+</tr>
+
+<tr>
+<td>Hobbies</td>
+<td>:</td>
+<td>Sketching</td>
+</tr>
+</table>
+
+<br><br>
+
+<p>Place:</p>
+<p>Date:</p>
+
+<div class="signature">
+<p><i>Avinash P</i></p>
+</div>
+
+</div>
+
+</body>
+</html>
+
